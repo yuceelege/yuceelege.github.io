@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+My research focuses on synthesizing optimal controllers for autonomous systems operating under partial information while ensuring they meet hard safety constraints.
+
 ## 📰 News
 
+- 🎉 Exciting announcement! I am starting my PhD in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign (UIUC). I am honored to work under the guidance of Prof. Sayan Mitra.
 - 🎉 Exciting news! Our paper "Strategizing against Q-learners: A Control-theoretical Approach" has been accepted for publication in the prestigious **IEEE Control Systems Letters (IEEE L-CSS)**!
 - We are delighted to share that the revised version of our preprint '[Strategizing against Q-learners: A Control-theoretical Approach](https://arxiv.org/abs/2403.08906)' is now available on arXiv! This updated version expands our original research to cover multiplayer game settings. In this iteration, we extend our methodology to scenarios where N-type agents define the game state while A-type agents compete. You can access the updated preprint at arXiv:2403.08906.
 - Our latest preprint, co-authored with Yüksel Arslantaş and Muhammed Ömer Sayın, is now available on arXiv! Titled '[Strategizing against Q-learners: A Control-theoretical Approach](https://arxiv.org/abs/2403.08906)', you can read it at arXiv:2403.08906.
