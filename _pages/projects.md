@@ -24,7 +24,7 @@ In the project, high-dimensional perception data was compressed using a variatio
 >   <br>
 >   <em>Figure 2: Evolution of Observations and Predictions</em>
 > </p>
->
+
 > ### Autonomous Structure Building with Graph Neural Networks
 > <hr style="border: none; height: 2px; background-color: #333; margin: 20px 0;">
 > <p align="center">
