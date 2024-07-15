@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+{% if site.author.googlescholar %}
+<div class="wordwrap">You can also find the full set of projects on <a href="{{site.author.github}}">my Github</a>.</div>
+{% endif %}
+
+## Selected Projects
 
 > ### Predictive Modeling for Robotic Perception
 > <hr style="border: none; height: 2px; background-color: #333; margin: 20px 0;">
