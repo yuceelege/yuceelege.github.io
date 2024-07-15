@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-> ### NeuroVision Navigator: Predictive Modeling for Robotic Perception
+> ### Predictive Modeling for Robotic Perception
 > <hr style="border: none; height: 2px; background-color: #333; margin: 20px 0;">
 > <p align="center">
 >   <img src="https://raw.githubusercontent.com/yuceelege/yuceelege.github.io/master/images/project1.png" alt="Robot Image" width="400" />
@@ -48,7 +48,7 @@ tower and wall building fast.
 >     <em>Figure 1: Algorithm for Task and Motion Planning with GNNs</em>
 >   </div>
 >   <div style="text-align: center;">
->     <img height="300" alt="Scheme 2" src="https://github.com/yuceelege/yuceelege.github.io/blob/master/images/project2-flow.png?raw=true">
+>     <img height="450" alt="Scheme 2" src="https://github.com/yuceelege/yuceelege.github.io/blob/master/images/project2-flow.png?raw=true">
 >     <br>
 >     <em>Figure 2: Object Feasibility Detection</em>
 >   </div>
