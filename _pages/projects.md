@@ -27,24 +27,29 @@ In the project, high-dimensional perception data was compressed using a variatio
 
 > ### Autonomous Structure Building with Graph Neural Networks
 > <hr style="border: none; height: 2px; background-color: #333; margin: 20px 0;">
-> <p align="center">
->   <img src="https://github.com/yuceelege/yuceelege.github.io/blob/master/images/project2-pyramid.png?raw=true" alt="Robot Image" width="400" />
-> </p>
+> <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+>   <div style="text-align: center;">
+>     <img src="https://github.com/yuceelege/yuceelege.github.io/blob/master/images/project2-pyramid.png?raw=true" alt="Robot Image" height="300" />
+>   </div>
+>   <div style="text-align: center;">
+>     <iframe width="400" height="300" src="https://www.youtube.com/watch?v=E598yBOvGWA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+>   </div>
+> </div>
 This project introduces a novel approach using graph networks for task and motion planning in robotic structure
 building. The system transforms an initial object configuration to a desired one by inferring spatial relations and
 representing them as a graph. A graph neural network (GNN) identifies movable objects and determines the
 necessary action sequence. Integrated with a Graph Search-based algorithm within the RAI framework, the system
 effectively classifies movable objects and operates a robot arm with a motion planner and solves challenges like
 tower and wall building fast.
-> <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+> <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
 >   <div style="text-align: center;">
 >     <img height="300" alt="Scheme 1" src="https://github.com/yuceelege/yuceelege.github.io/blob/master/images/project2-algo.png?raw=true">
 >     <br>
->     <em>Figure 1: Proposed Method for Predictive Modeling</em>
+>     <em>Figure 1: ALgorithm for Task and Motion Planning with GNNs</em>
 >   </div>
 >   <div style="text-align: center;">
 >     <img height="300" alt="Scheme 2" src="https://github.com/yuceelege/yuceelege.github.io/blob/master/images/project2-flow.png?raw=true">
 >     <br>
->     <em>Figure 2: Evolution of Observations and Predictions</em>
+>     <em>Figure 2: Object Feasibility Detection</em>
 >   </div>
 > </div>
