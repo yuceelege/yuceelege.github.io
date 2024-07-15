@@ -11,9 +11,7 @@ author_profile: true
 > ### NeuroVision Navigator: Predictive Modeling of Robotic Perception
 > <hr style="border: none; height: 2px; background-color: #333; margin: 20px 0;">
 > <p align="center">
->   <a
->     <img src="https://raw.githubusercontent.com/yuceelege/yuceelege.github.io/master/images/project1.png" alt="Robot Image" width="400" />
->   </a>
+>   <img src="https://raw.githubusercontent.com/yuceelege/yuceelege.github.io/master/images/project1.png" alt="Robot Image" width="400" />
 > </p>
 In the project, high-dimensional perception data was compressed using a variational autoencoder (VAE) pipeline, optimizing the efficiency of motion planning. The project’s ”Forward Model,” designed for task and motion planning applications, was constructed to predict the mobile robot’s future observations based on current sensory inputs and control actions. This predictive capability was achieved by integrating the VAE with a Long Short-Term Memory (LSTM) network.
 > <p align="center">
