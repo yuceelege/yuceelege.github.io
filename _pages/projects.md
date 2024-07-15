@@ -19,11 +19,11 @@ In the project, high-dimensional perception data was compressed using a variatio
 > <p align="center">
 >   <img width="600" alt="Scheme 1" src="https://raw.githubusercontent.com/yuceelege/yuceelege.github.io/master/images/project1-image2.png">
 >   <br>
->   <em>Figure 1: Scheme 1</em>
+>   <em>Figure 1: Proposed Method for Predictive Modeling</em>
 > </p>
-> <p align="center">
+> <p align="center" style="margin-top: 20px;">
 >   <img width="600" alt="Scheme 2" src="https://raw.githubusercontent.com/yuceelege/yuceelege.github.io/master/images/project1-image1.png">
 >   <br>
->   <em>Figure 2: Scheme 2</em>
+>   <em>Figure 2: Evolution of Observations and Predictions</em>
 > </p>
 >
