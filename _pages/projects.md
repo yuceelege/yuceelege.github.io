@@ -36,13 +36,15 @@ representing them as a graph. A graph neural network (GNN) identifies movable ob
 necessary action sequence. Integrated with a Graph Search-based algorithm within the RAI framework, the system
 effectively classifies movable objects and operates a robot arm with a motion planner and solves challenges like
 tower and wall building fast.
-> <p align="center">
->   <img width="600" alt="Scheme 1" src="https://github.com/yuceelege/yuceelege.github.io/blob/master/images/project2-algo.png?raw=true">
->   <br>
->   <em>Figure 1: Proposed Method for Predictive Modeling</em>
-> </p>
-> <p align="center" style="margin-top: 20px;">
->   <img width="600" alt="Scheme 2" src="https://github.com/yuceelege/yuceelege.github.io/blob/master/images/project2-flow.png?raw=true">
->   <br>
->   <em>Figure 2: Evolution of Observations and Predictions</em>
-> </p>
+> <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+>   <div style="text-align: center;">
+>     <img height="300" alt="Scheme 1" src="https://github.com/yuceelege/yuceelege.github.io/blob/master/images/project2-algo.png?raw=true">
+>     <br>
+>     <em>Figure 1: Proposed Method for Predictive Modeling</em>
+>   </div>
+>   <div style="text-align: center;">
+>     <img height="300" alt="Scheme 2" src="https://github.com/yuceelege/yuceelege.github.io/blob/master/images/project2-flow.png?raw=true">
+>     <br>
+>     <em>Figure 2: Evolution of Observations and Predictions</em>
+>   </div>
+> </div>
