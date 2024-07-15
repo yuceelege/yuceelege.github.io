@@ -28,11 +28,11 @@ In the project, high-dimensional perception data was compressed using a variatio
 > ### Autonomous Structure Building with Graph Neural Networks
 > <hr style="border: none; height: 2px; background-color: #333; margin: 20px 0;">
 > <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
->   <div style="text-align: center;">
->     <img src="https://github.com/yuceelege/yuceelege.github.io/blob/master/images/project2-pyramid.png?raw=true" alt="Robot Image" height="300" />
+>   <div style="text-align: center; flex: 1;">
+>     <img src="https://github.com/yuceelege/yuceelege.github.io/blob/master/images/project2-pyramid.png?raw=true" alt="Robot Image" style="height: 300px; width: 100%;" />
 >   </div>
->   <div style="text-align: center;">
->     <iframe width="400" height="300" src="https://www.youtube.com/watch?v=E598yBOvGWA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+>   <div style="text-align: center; flex: 1;">
+>     <iframe style="height: 300px; width: 100%;" src="https://www.youtube.com/embed/E598yBOvGWA?autoplay=1&loop=1&playlist=E598yBOvGWA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 >   </div>
 > </div>
 This project introduces a novel approach using graph networks for task and motion planning in robotic structure
@@ -45,7 +45,7 @@ tower and wall building fast.
 >   <div style="text-align: center;">
 >     <img height="300" alt="Scheme 1" src="https://github.com/yuceelege/yuceelege.github.io/blob/master/images/project2-algo.png?raw=true">
 >     <br>
->     <em>Figure 1: ALgorithm for Task and Motion Planning with GNNs</em>
+>     <em>Figure 1: Algorithm for Task and Motion Planning with GNNs</em>
 >   </div>
 >   <div style="text-align: center;">
 >     <img height="300" alt="Scheme 2" src="https://github.com/yuceelege/yuceelege.github.io/blob/master/images/project2-flow.png?raw=true">
