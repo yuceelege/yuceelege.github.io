@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ege Yüceel, recently graduated with a Bachelor's in Electrical and Electronics Engineering from Bilkent University. At Bilkent, my research spanned algorithmic game theory, multi-agent learning, and reinforcement learning under the guidance of [Dr. Muhammed Sayın](https://gdn.bilkent.edu.tr/sayin/) in the [Games, Decisions, and Networks Lab](https://gdn.bilkent.edu.tr/).
+Hi, I'm Ege Yüceel! I recently graduated with a Bachelor's in Electrical and Electronics Engineering from Bilkent University. At Bilkent, my research spanned algorithmic game theory, multi-agent learning, and reinforcement learning under the guidance of [Dr. Muhammed Sayın](https://gdn.bilkent.edu.tr/sayin/) in the [Games, Decisions, and Networks Lab](https://gdn.bilkent.edu.tr/).
 
 Now, I am working on synthesizing theoretically provable, optimal controllers for autonomous systems operating under partial information while ensuring they meet hard safety constraints under the guidance of Prof. Sayan Mitra at UIUC.
 
