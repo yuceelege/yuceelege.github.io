@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Ege Yüceel**, a **second-year Ph.D. student in the [Reliable Autonomy Group](https://mitras.ece.illinois.edu/)** at the **University of Illinois Urbana-Champaign (UIUC)**, advised by [Prof. Sayan Mitra](https://mitras.ece.illinois.edu/). I am supported by the **Promise of Excellence Fellowship**.
+Hi, I'm **Ege Yüceel**, a **second-year Ph.D. student in the [Reliable Autonomy Group](https://mitras.ece.illinois.edu/)** at the **University of Illinois Urbana-Champaign (UIUC)**, advised by [Prof. Sayan Mitra](https://mitras.ece.illinois.edu/). 
 
 My research interests broadly lie in **robotics**, particularly in exploring the **robust and agile limits of vision-based control**. I am also interested in developing **planning and localization algorithms** that provide **theoretical guarantees in minimal-information settings**, with applications to **safe autonomy**, **reach-avoid planning**, and **vision-guided control**.
 
