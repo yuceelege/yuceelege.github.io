@@ -25,24 +25,6 @@ Previously, I completed my **B.Sc. in Electrical and Electronics Engineering** a
 
 ---
 
-## 📚 Selected Publications
-
-- Yuksel Arslantas, **Ege Yuceel**, Muhammed O. Sayin,  
-  *“Strategizing against Q-learners: A Control-theoretical Approach.”*  
-  *IEEE Control Systems Letters (L-CSS)*, 2024.  
-  [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10561617)
-
-- Yuksel Arslantas, **Ege Yuceel**, Yigit Yalin, Muhammed O. Sayin,  
-  *“Convergence of Heterogeneous Learning Dynamics in Zero-sum Stochastic Games.”*  
-  *IEEE Transactions on Automatic Control (TAC)*, 2025.  
-  [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11021434/)
-
-- Yan Miao, **Ege Yuceel**, Georgios Fainekos, Bardh Hoxha, Hideki Okamoto, Sayan Mitra,  
-  *“Performance-Guided Refinement for Visual Aerial Navigation using Editable Gaussian Splatting in FalconGym 2.0.”*  
-  *arXiv preprint*, October 2025.  
-  [[arXiv:2510.02248]](https://arxiv.org/pdf/2510.02248)
-
----
 
 ## 🔍 Research Interests
 
