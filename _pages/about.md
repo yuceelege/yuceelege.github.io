@@ -11,7 +11,7 @@ Hi, I'm **Ege Yüceel**, a **second-year Ph.D. student in the [Reliable Autonomy
 
 My research interests broadly lie in **robotics**, particularly in exploring the **robust and agile limits of vision-based control**. I am also interested in developing **planning and localization algorithms** that have **soundness and completeness guarantees in minimal-information settings**, with applications to **safe autonomy**, **reach-avoid planning**, and **vision-guided control**.
 
-Previously, I completed my **B.Sc. in Electrical and Electronics Engineering** at **Bilkent University**, where I worked with [Dr. Muhammed Ömer Sayın](https://gdn.bilkent.edu.tr/sayin/) in the [Games, Decisions, and Networks Lab](https://gdn.bilkent.edu.tr/). My undergraduate research focused on **multi-agent learning**, **reinforcement learning theory**, and **algorithmic game dynamics**.
+Previously, I completed my **B.Sc. in Electrical and Electronics Engineering** at **Bilkent University**, where I worked with [Dr. Muhammed Ömer Sayın](https://gdn.bilkent.edu.tr/sayin/) in the [Games, Decisions, and Networks Lab](https://gdn.bilkent.edu.tr/). My undergraduate research focused on **multi-agent learning** and **game theory**.
 
 ---
 
