@@ -7,17 +7,45 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ege! I recently graduated with a Bachelor's in Electrical and Electronics Engineering from Bilkent University. At Bilkent, my research spanned algorithmic game theory, multi-agent learning, and reinforcement learning under the guidance of [Dr. Muhammed Sayın](https://gdn.bilkent.edu.tr/sayin/) in the [Games, Decisions, and Networks Lab](https://gdn.bilkent.edu.tr/).
+Hi, I'm **Ege Yüceel**, a **second-year Ph.D. student in the [Reliable Autonomy Group](https://mitras.ece.illinois.edu/)** at the **University of Illinois Urbana-Champaign (UIUC)**, advised by [Prof. Sayan Mitra](https://mitras.ece.illinois.edu/). I am supported by the **Promise of Excellence Fellowship**.
 
-Now, I am working on synthesizing theoretically provable, optimal controllers for autonomous systems operating under partial information while ensuring they meet hard safety constraints under the guidance of Prof. Sayan Mitra at UIUC.
+My research interests broadly lie in **robotics**, particularly in exploring the **robust and agile limits of vision-based control**. I am also interested in developing **planning and localization algorithms** that provide **theoretical guarantees in minimal-information settings**, with applications to **safe autonomy**, **reach-avoid planning**, and **vision-guided control**.
 
+Previously, I completed my **B.Sc. in Electrical and Electronics Engineering** at **Bilkent University**, where I worked with [Dr. Muhammed Ömer Sayın](https://gdn.bilkent.edu.tr/sayin/) in the [Games, Decisions, and Networks Lab](https://gdn.bilkent.edu.tr/). My undergraduate research focused on **multi-agent learning**, **reinforcement learning theory**, and **algorithmic game dynamics**.
+
+---
 
 ## 📰 News
 
-- 🎉 Exciting announcement! I am starting my PhD in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign (UIUC). I am honored to work under the guidance of Prof. Sayan Mitra.
-- 🎉 Exciting news! Our paper "Strategizing against Q-learners: A Control-theoretical Approach" has been accepted for publication in the prestigious **IEEE Control Systems Letters (IEEE L-CSS)**!
-- We are delighted to share that the revised version of our preprint '[Strategizing against Q-learners: A Control-theoretical Approach](https://arxiv.org/abs/2403.08906)' is now available on arXiv! This updated version expands our original research to cover multiplayer game settings. In this iteration, we extend our methodology to scenarios where N-type agents define the game state while A-type agents compete. You can access the updated preprint at arXiv:2403.08906.
-- Our latest preprint, co-authored with Yüksel Arslantaş and Muhammed Ömer Sayın, is now available on arXiv! Titled '[Strategizing against Q-learners: A Control-theoretical Approach](https://arxiv.org/abs/2403.08906)', you can read it at arXiv:2403.08906.
-- Dr. Sayın recently presented our findings on "Convergence of Heterogeneous Learning Dynamics in Zero-sum Stochastic Games" at the CDC Workshop 2023 on "[Control, Game, and Learning Theory for Security and Privacy](https://sites.google.com/nyu.edu/cdc2023workshop/home?authuser=0)".
-- We are excited to announce that our newest preprint, co-authored with Yüksel Arslantaş, Yiğit Yalın, and Muhammed Ömer Sayın, is now live on arXiv! The paper, titled '[Convergence of Heterogeneous Learning Dynamics in Zero-sum Stochastic Games](https://arxiv.org/abs/2311.00778)', is available for you to read at arXiv:2311.00778.
-- Dr. Sayın delivered an invited talk on “Convergent Heterogeneous Learning for Zero-sum Stochastic Games” at the [Annual Allerton Conference](https://allerton.csl.illinois.edu/), sharing insights from our ongoing research in this domain.
+- 🎉 *November 2025:* Our paper **“Convergence of Heterogeneous Learning Dynamics in Zero-sum Stochastic Games”** was **published in IEEE Transactions on Automatic Control (TAC)**. [Read on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11021434/)
+- *October 2025:* Our paper **“Performance-Guided Refinement for Visual Aerial Navigation using Editable Gaussian Splatting in FalconGym 2.0”** is now available on [arXiv](https://arxiv.org/pdf/2510.02248).
+- 🎉 *July 2024:* Our paper **“Strategizing against Q-learners: A Control-theoretical Approach”** was **published in IEEE Control Systems Letters (L-CSS)**. [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/10561617)
+- *August 2024:* I began my Ph.D. in Electrical and Computer Engineering at **UIUC**, joining the **Reliable Autonomy Group** under Prof. Sayan Mitra.
+- *May 2024:* Graduated with **High Honors (GPA 3.88/4.00)** from Bilkent University and received the **Research Excellence Award**.
+
+---
+
+## 📚 Selected Publications
+
+- Yuksel Arslantas, **Ege Yuceel**, Muhammed O. Sayin,  
+  *“Strategizing against Q-learners: A Control-theoretical Approach.”*  
+  *IEEE Control Systems Letters (L-CSS)*, 2024.  
+  [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10561617)
+
+- Yuksel Arslantas, **Ege Yuceel**, Yigit Yalin, Muhammed O. Sayin,  
+  *“Convergence of Heterogeneous Learning Dynamics in Zero-sum Stochastic Games.”*  
+  *IEEE Transactions on Automatic Control (TAC)*, 2025.  
+  [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11021434/)
+
+- Yan Miao, **Ege Yuceel**, Georgios Fainekos, Bardh Hoxha, Hideki Okamoto, Sayan Mitra,  
+  *“Performance-Guided Refinement for Visual Aerial Navigation using Editable Gaussian Splatting in FalconGym 2.0.”*  
+  *arXiv preprint*, October 2025.  
+  [[arXiv:2510.02248]](https://arxiv.org/pdf/2510.02248)
+
+---
+
+## 🔍 Research Interests
+
+- Robust and agile vision-based control  
+- Safe autonomy and reach-avoid planning  
+- Planning and localization under minimal sensing  
