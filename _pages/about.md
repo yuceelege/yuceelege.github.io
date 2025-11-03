@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ege Yüceel"
+title: "Ege Yuceel"
 author_profile: true
 redirect_from: 
   - /about/
