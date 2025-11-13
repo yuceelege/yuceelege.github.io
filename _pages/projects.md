@@ -30,4 +30,4 @@ In the project, high-dimensional perception data was compressed using a variatio
 >   <em>Figure 2: Evolution of Observations and Predictions</em>
 > </p>
 
-> </div>
+>
