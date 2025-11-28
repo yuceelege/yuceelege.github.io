@@ -3,7 +3,7 @@ title: "Convergence of Heterogeneous Learning Dynamics in Zero-sum Stochastic Ga
 collection: publications
 permalink: /publication/convergence-of-heterogeneous-learning-dynamics
 excerpt: 'This paper presents new families of algorithms for the repeated play of two-agent (near) zero-sum games and two-agent zero-sum stochastic games.'
-date: 2025-02-06
+date: 2025-06-02
 venue: IEEE-TAC
 paperurl: 
 citation: 
